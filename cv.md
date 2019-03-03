@@ -39,11 +39,11 @@ https://github.com/jetalai3/vvsvintsitsky.testing - Testing platform for student
 
 ### Trainings and courses
 2016 EPAM Java training (Grodno)  
-https://www.codecademy.com/users/totally_jetalai/achievements  
-https://htmlacademy.ru/profile/id1017355/achievements  
+<a href="https://www.codecademy.com/users/totally_jetalai/achievements">Codeacademy</a>  
+<a href="https://htmlacademy.ru/profile/id1017355/achievements">Htmlacademy</a>  
 ### Employment
-* http://rdbce.by/ - system engineer (2014-2015)
-* www.grodno-khim.by - software engineer (2015-current days)
+* <a href="http://rdbce.by/">http://rdbce.by/</a> - system engineer (2014-2015)
+* <a href="www.grodno-khim.by">www.grodno-khim.by</a> - software engineer (2015-current days)
 
 ## Education
 Institution: BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS  
